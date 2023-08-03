@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 550;
+}
+
+body {
+    width: 768px;
+    margin: 20px auto;
+}
+
+canvas {
+    float: left;
+}
+
+.control {
+    float: right;
+    margin: 50px 20px;
+}
+
+#startStop {
+    padding: 7px 22px;
+    margin: 5px auto;
+}
+
+.score #point {
+    border: 1px solid black;
+    border-radius: 2px;
+    width: 40px;
+    height: 30px;
+    text-align: center;
+    padding: 5px;
+
+}
+
+.score {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}

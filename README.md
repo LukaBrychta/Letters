@@ -13,7 +13,7 @@ Vytvořená pomocí JavaScriptu a Pixi.js
 
 - Přičítání bodů, pokud se stisknutý znak vyskytuje alespoň dvakrát
 - Odečítání bodů, pokud se stisknutý znak vyskytuje pouze jednou nebo vůbec
-- Konec hry při spadnutí písmena
+- Hra končí, když se písmeno dotkne spodní hrany
 - Rychlost se zvyšuje s růstem bodů
 
 - Velikost písmen a velikost čtverců se náhodně generuje

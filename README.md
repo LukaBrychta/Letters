@@ -1,6 +1,4 @@
-<h2>Letter</h2>
-
-Hra s padajícími písmeny
+<h2>Letters</h2>
 
 Jednoduchá hra, ve které padají písmena. Cílem hráče je stisknout příslušnou klávesu v případě výskytu dvou shodných písmen.
 
